@@ -8,4 +8,4 @@
 # SQLite
 *.db
 
-.env
+/.env
